@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Em à!',
     introDesc: `Nụ cười sẽ mãi trên môi
-Hãy luôn chia sẻ cùng tôi nếu cần
-Vai này dựa nhé cục cưng
-Nhớ là tôi mãi ở gần em thôi.`,
+    Hãy luôn chia sẻ cùng tôi nếu cần
+    Vai này dựa nhé cục cưng
+    Nhớ là tôi mãi ở gần em thôi.`,
     btnIntro: 'hihi',
     title: 'Dù không gặp nhau được, nhưng hãy vui vẻ trong ngày sinh nhật này nha 😙',
     desc: 'Sinh nhật vui vẻ nha 29-07-2021 ',
