@@ -14,5 +14,4 @@ const CONFIG = {
     reply: 'chịu thì chịu mà không chịu thì chịu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Anh sẽ qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-}
+    btnAccept: 'Okiiiii lun <3',}
